@@ -8,7 +8,9 @@ public class application {
         System.err.println(arr[4]);
 
         int index = Arrays.binarySearch(arr, 30);
-        System.out.println("Index of 30: " + index);
+        System.out.println("Index of 30: " + index
+            
+        );
 
     }
 }
